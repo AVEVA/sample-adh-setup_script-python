@@ -1,0 +1,4 @@
+Timestamp,Value,SystemStateCode,DigitalStateName
+2023-12-02T07:41:51.8119506Z,,255,Bad Input
+2023-12-02T07:44:49.1930694Z,,246,I/O Timeout
+2023-12-08T16:17:44.9933929Z,,246,I/O Timeout

@@ -1,0 +1,340 @@
+{
+  "AssetTypes": [
+    {
+      "Id": "Equipment",
+      "Name": "Equipment",
+      "Description": "Setup Script Asset Type",
+      "Metadata": [
+        {
+          "Id": "site",
+          "Name": "site",
+          "SdsTypeCode": "String"
+        },
+        {
+          "Id": "__ParentId",
+          "Name": "__ParentId",
+          "SdsTypeCode": "String"
+        },
+        {
+          "Id": "__ParentName",
+          "Name": "__ParentName",
+          "SdsTypeCode": "String"
+        },
+        {
+          "Id": "__Path",
+          "Name": "__Path",
+          "SdsTypeCode": "String"
+        }
+      ],
+      "TypeReferences": [
+        {
+          "StreamReferenceId": "Reader1",
+          "StreamReferenceName": "Reader1",
+          "TypeId": "TimeIndexedDouble"
+        },
+        {
+          "StreamReferenceId": "Reader2",
+          "StreamReferenceName": "Reader2",
+          "TypeId": "TimeIndexedDouble"
+        },
+        {
+          "StreamReferenceId": "Reader3",
+          "StreamReferenceName": "Reader3",
+          "TypeId": "TimeIndexedDouble"
+        }
+      ]
+    }
+  ],
+  "Hierarchy": {
+    "Asset": {
+      "Id": "Company"
+    },
+    "StreamReaders": [],
+    "EventReaders": [],
+    "ReferenceDataReaders": [],
+    "Children": [
+      {
+        "Asset": {
+          "Id": "Site1"
+        },
+        "StreamReaders": [],
+        "EventReaders": [],
+        "ReferenceDataReaders": [],
+        "Children": [
+          {
+            "Asset": {
+              "Id": "Equipment1",
+              "AssetTypeId": "Equipment",
+              "Metadata": [
+                {
+                  "Id": "site",
+                  "Name": "site",
+                  "SdsTypeCode": "String",
+                  "Value": "SLTC"
+                }
+              ],
+              "Status": {
+                "DefinitionType": "StreamPropertyMapping",
+                "Definition": {
+                  "StreamReferenceId": "Status",
+                  "StreamPropertyId": "Value",
+                  "ValueStatusMappings": [
+                    {
+                      "Value": 0,
+                      "Status": "Good",
+                      "DisplayName": "Good"
+                    },
+                    {
+                      "Value": 1,
+                      "Status": "Bad",
+                      "DisplayName": "Bad"
+                    },
+                    {
+                      "Value": 2,
+                      "Status": "Warning",
+                      "DisplayName": "Warning"
+                    }
+                  ]
+                }
+              }
+            },
+            "StreamReaders": [
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader1",
+                "Name": "Reader1",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader2",
+                "Name": "Reader2",
+                "FilePath": "data/test/stream/test.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader3",
+                "Name": "Reader3",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Status",
+                "Name": "Status",
+                "FilePath": "data/test/stream/status.csv",
+                "DataClass": "StreamTypeTimeIndexedInt64"
+              }
+            ],
+            "EventReaders": [
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader1",
+                "Name": "EventReader1",
+                "FilePath": "data/test/event/event.csv",
+                "EventClass": "OnOffEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": [
+                  "OnOffStateEnum"
+                ],
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              },
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader2",
+                "Name": "EventReader2",
+                "FilePath": "data/test/event/event_uom.csv",
+                "EventClass": "DoubleEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": null,
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              }
+            ],
+            "ReferenceDataReaders": [
+              {
+                "Reader": "CSVReferenceDataReader",
+                "Id": "ReferenceDataReader1",
+                "Name": "ReferenceDataReader1",
+                "FilePath": "data/test/reference_data/reference_data_uom.csv",
+                "ReferenceDataClass": "DoubleReferenceData",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": null,
+                "UnitsOfMeature": null
+              }
+            ],
+            "Children": []
+          },
+          {
+            "Asset": {
+              "Id": "Equipment2",
+              "AssetTypeId": "Equipment",
+              "Metadata": [
+                {
+                  "Id": "site",
+                  "Name": "site",
+                  "SdsTypeCode": "String",
+                  "Value": "SLTC"
+                }
+              ]
+            },
+            "StreamReaders": [
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader1",
+                "Name": "Reader1",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader2",
+                "Name": "Reader2",
+                "FilePath": "data/test/stream/test.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader3",
+                "Name": "Reader3",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              }
+            ],
+            "EventReaders": [
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader1",
+                "Name": "EventReader1",
+                "FilePath": "data/test/event/event.csv",
+                "EventClass": "OnOffEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": [
+                  "OnOffStateEnum"
+                ],
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              },
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader2",
+                "Name": "EventReader2",
+                "FilePath": "data/test/event/event_uom.csv",
+                "EventClass": "DoubleEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": null,
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              }
+            ],
+            "ReferenceDataReaders": [],
+            "Children": []
+          }
+        ]
+      },
+      {
+        "Asset": {
+          "Id": "Site2"
+        },
+        "StreamReaders": [],
+        "EventReaders": [],
+        "ReferenceDataReaders": [],
+        "Children": [
+          {
+            "Asset": {
+              "Id": "Equipment1",
+              "AssetTypeId": "Equipment",
+              "Metadata": [
+                {
+                  "Id": "site",
+                  "Name": "site",
+                  "SdsTypeCode": "String",
+                  "Value": "PHYL"
+                }
+              ]
+            },
+            "StreamReaders": [
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader1",
+                "Name": "Reader1",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader2",
+                "Name": "Reader2",
+                "FilePath": "data/test/stream/test.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              },
+              {
+                "Reader": "CSVStreamReader",
+                "Id": "Reader3",
+                "Name": "Reader3",
+                "FilePath": "data/test/stream/test_short.csv",
+                "DataClass": "StreamTypeTimeIndexedDouble"
+              }
+            ],
+            "EventReaders": [
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader1",
+                "Name": "EventReader1",
+                "FilePath": "data/test/event/event.csv",
+                "EventClass": "OnOffEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": [
+                  "OnOffStateEnum"
+                ],
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              },
+              {
+                "Reader": "CSVEventReader",
+                "Id": "EventReader2",
+                "Name": "EventReader2",
+                "FilePath": "data/test/event/event_uom.csv",
+                "EventClass": "DoubleEvent",
+                "AuthorizationTags": [
+                  "SetupAuthorizationTag"
+                ],
+                "Enumerations": null,
+                "UnitsOfMeature": null,
+                "ReferenceAsset": null
+              }
+            ],
+            "ReferenceDataReaders": [],
+            "Children": []
+          }
+        ]
+      }
+    ]
+  },
+  "SoloStreamReaders": [
+    {
+      "Reader": "RandomStreamReader",
+      "Id": "Random1",
+      "Name": "Random1",
+      "DataClass": "StreamTypeTimeIndexedDouble",
+      "Interval": 5.0
+    }
+  ],
+  "SoloEventReaders": [],
+  "SoloReferenceDataReaders": []
+}

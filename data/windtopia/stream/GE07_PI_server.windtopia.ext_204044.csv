@@ -1,0 +1,643 @@
+Timestamp,Value,SystemStateCode,DigitalStateName
+2023-12-01T12:33:05Z,20,,Grid Disconnection
+2023-12-01T13:15:35Z,18,,Shutdown
+2023-12-01T16:46:35Z,20,,Grid Disconnection
+2023-12-01T17:28:35Z,12,,Idle Position
+2023-12-01T18:06:05Z,6,,Bladeangle Float
+2023-12-01T18:43:35Z,14,,Running Up
+2023-12-01T19:26:05Z,13,,Man. Speed
+2023-12-01T22:35:35Z,14,,Running Up
+2023-12-01T23:19:35Z,6,,Bladeangle Float
+2023-12-01T23:57:05Z,12,,Idle Position
+2023-12-02T00:32:35Z,20,,Grid Disconnection
+2023-12-02T01:14:05Z,18,,Shutdown
+2023-12-02T04:48:35Z,20,,Grid Disconnection
+2023-12-02T05:27:35Z,12,,Idle Position
+2023-12-02T06:05:05Z,6,,Bladeangle Float
+2023-12-02T06:42:35Z,14,,Running Up
+2023-12-02T07:00:05Z,14,,Running Up
+2023-12-02T07:27:35Z,13,,Man. Speed
+2023-12-02T08:41:35Z,13,,Man. Speed
+2023-12-02T10:36:35Z,14,,Running Up
+2023-12-02T11:18:05Z,6,,Bladeangle Float
+2023-12-02T11:55:35Z,12,,Idle Position
+2023-12-02T12:33:05Z,20,,Grid Disconnection
+2023-12-02T13:15:35Z,18,,Shutdown
+2023-12-02T16:46:35Z,20,,Grid Disconnection
+2023-12-02T17:28:35Z,12,,Idle Position
+2023-12-02T18:06:05Z,6,,Bladeangle Float
+2023-12-02T18:43:35Z,14,,Running Up
+2023-12-02T19:26:05Z,13,,Man. Speed
+2023-12-02T22:35:35Z,14,,Running Up
+2023-12-02T23:19:35Z,6,,Bladeangle Float
+2023-12-02T23:57:05Z,12,,Idle Position
+2023-12-03T00:32:35Z,20,,Grid Disconnection
+2023-12-03T01:14:05Z,18,,Shutdown
+2023-12-03T04:48:35Z,20,,Grid Disconnection
+2023-12-03T05:15:35Z,20,,Grid Disconnection
+2023-12-03T05:27:35Z,12,,Idle Position
+2023-12-03T06:05:05Z,6,,Bladeangle Float
+2023-12-03T06:42:35Z,14,,Running Up
+2023-12-03T07:27:35Z,13,,Man. Speed
+2023-12-03T10:36:35Z,14,,Running Up
+2023-12-03T11:18:05Z,6,,Bladeangle Float
+2023-12-03T11:55:35Z,12,,Idle Position
+2023-12-03T12:33:05Z,20,,Grid Disconnection
+2023-12-03T13:15:35Z,18,,Shutdown
+2023-12-03T16:46:35Z,20,,Grid Disconnection
+2023-12-03T17:28:35Z,12,,Idle Position
+2023-12-03T18:06:05Z,6,,Bladeangle Float
+2023-12-03T18:43:35Z,14,,Running Up
+2023-12-03T19:26:05Z,13,,Man. Speed
+2023-12-03T22:35:35Z,14,,Running Up
+2023-12-03T23:19:35Z,6,,Bladeangle Float
+2023-12-03T23:57:05Z,12,,Idle Position
+2023-12-04T00:32:35Z,20,,Grid Disconnection
+2023-12-04T01:14:05Z,18,,Shutdown
+2023-12-04T04:48:35Z,20,,Grid Disconnection
+2023-12-04T05:27:35Z,12,,Idle Position
+2023-12-04T06:05:05Z,6,,Bladeangle Float
+2023-12-04T06:42:35Z,14,,Running Up
+2023-12-04T07:27:35Z,13,,Man. Speed
+2023-12-04T10:36:35Z,14,,Running Up
+2023-12-04T11:18:05Z,6,,Bladeangle Float
+2023-12-04T11:55:35Z,12,,Idle Position
+2023-12-04T12:33:05Z,20,,Grid Disconnection
+2023-12-04T13:15:35Z,18,,Shutdown
+2023-12-04T16:46:35Z,20,,Grid Disconnection
+2023-12-04T17:28:35Z,12,,Idle Position
+2023-12-04T18:06:05Z,6,,Bladeangle Float
+2023-12-04T18:43:35Z,14,,Running Up
+2023-12-04T19:26:05Z,13,,Man. Speed
+2023-12-04T22:35:35Z,14,,Running Up
+2023-12-04T23:19:35Z,6,,Bladeangle Float
+2023-12-04T23:57:05Z,12,,Idle Position
+2023-12-05T00:32:35Z,20,,Grid Disconnection
+2023-12-05T01:14:05Z,18,,Shutdown
+2023-12-05T04:48:35Z,20,,Grid Disconnection
+2023-12-05T05:27:35Z,12,,Idle Position
+2023-12-05T06:05:05Z,6,,Bladeangle Float
+2023-12-05T06:42:35Z,14,,Running Up
+2023-12-05T07:27:35Z,13,,Man. Speed
+2023-12-05T10:36:35Z,14,,Running Up
+2023-12-05T11:18:05Z,6,,Bladeangle Float
+2023-12-05T11:55:35Z,12,,Idle Position
+2023-12-05T12:33:05Z,20,,Grid Disconnection
+2023-12-05T13:15:35Z,18,,Shutdown
+2023-12-05T16:46:35Z,20,,Grid Disconnection
+2023-12-05T17:28:35Z,12,,Idle Position
+2023-12-05T18:06:05Z,6,,Bladeangle Float
+2023-12-05T18:43:35Z,14,,Running Up
+2023-12-05T19:26:05Z,13,,Man. Speed
+2023-12-05T22:35:35Z,14,,Running Up
+2023-12-05T23:19:35Z,6,,Bladeangle Float
+2023-12-05T23:57:05Z,12,,Idle Position
+2023-12-06T00:32:35Z,20,,Grid Disconnection
+2023-12-06T01:14:05Z,18,,Shutdown
+2023-12-06T04:48:35Z,20,,Grid Disconnection
+2023-12-06T05:27:35Z,12,,Idle Position
+2023-12-06T06:05:05Z,6,,Bladeangle Float
+2023-12-06T06:42:35Z,14,,Running Up
+2023-12-06T07:27:35Z,13,,Man. Speed
+2023-12-06T10:36:35Z,14,,Running Up
+2023-12-06T11:18:05Z,6,,Bladeangle Float
+2023-12-06T11:55:35Z,12,,Idle Position
+2023-12-06T12:33:05Z,20,,Grid Disconnection
+2023-12-06T13:15:35Z,18,,Shutdown
+2023-12-06T16:46:35Z,20,,Grid Disconnection
+2023-12-06T17:28:35Z,12,,Idle Position
+2023-12-06T18:06:05Z,6,,Bladeangle Float
+2023-12-06T18:43:35Z,14,,Running Up
+2023-12-06T19:26:05Z,13,,Man. Speed
+2023-12-06T22:35:35Z,14,,Running Up
+2023-12-06T23:19:35Z,6,,Bladeangle Float
+2023-12-06T23:57:05Z,12,,Idle Position
+2023-12-07T00:32:35Z,20,,Grid Disconnection
+2023-12-07T01:14:05Z,18,,Shutdown
+2023-12-07T04:48:35Z,20,,Grid Disconnection
+2023-12-07T05:27:35Z,12,,Idle Position
+2023-12-07T06:05:05Z,6,,Bladeangle Float
+2023-12-07T06:42:35Z,14,,Running Up
+2023-12-07T07:27:35Z,13,,Man. Speed
+2023-12-07T10:36:35Z,14,,Running Up
+2023-12-07T11:18:05Z,6,,Bladeangle Float
+2023-12-07T11:55:35Z,12,,Idle Position
+2023-12-07T12:33:05Z,20,,Grid Disconnection
+2023-12-07T13:15:35Z,18,,Shutdown
+2023-12-07T16:46:35Z,20,,Grid Disconnection
+2023-12-07T17:28:35Z,12,,Idle Position
+2023-12-07T18:06:05Z,6,,Bladeangle Float
+2023-12-07T18:43:35Z,14,,Running Up
+2023-12-07T19:26:05Z,13,,Man. Speed
+2023-12-07T22:35:35Z,14,,Running Up
+2023-12-07T23:19:35Z,6,,Bladeangle Float
+2023-12-07T23:57:05Z,12,,Idle Position
+2023-12-08T00:32:35Z,20,,Grid Disconnection
+2023-12-08T01:14:05Z,18,,Shutdown
+2023-12-08T04:48:35Z,20,,Grid Disconnection
+2023-12-08T05:27:35Z,12,,Idle Position
+2023-12-08T06:05:05Z,6,,Bladeangle Float
+2023-12-08T06:42:35Z,14,,Running Up
+2023-12-08T07:27:35Z,13,,Man. Speed
+2023-12-08T07:28:05Z,13,,Man. Speed
+2023-12-08T10:36:35Z,14,,Running Up
+2023-12-08T11:18:05Z,6,,Bladeangle Float
+2023-12-08T11:55:35Z,12,,Idle Position
+2023-12-08T12:33:05Z,20,,Grid Disconnection
+2023-12-08T13:15:35Z,18,,Shutdown
+2023-12-08T16:47:48Z,20,,Grid Disconnection
+2023-12-08T17:29:18Z,12,,Idle Position
+2023-12-08T18:04:48Z,6,,Bladeangle Float
+2023-12-08T18:42:18Z,14,,Running Up
+2023-12-08T19:26:48Z,13,,Man. Speed
+2023-12-08T22:35:48Z,14,,Running Up
+2023-12-08T23:19:48Z,6,,Bladeangle Float
+2023-12-08T23:57:18Z,12,,Idle Position
+2023-12-09T00:32:48Z,20,,Grid Disconnection
+2023-12-09T01:14:18Z,18,,Shutdown
+2023-12-09T04:46:18Z,20,,Grid Disconnection
+2023-12-09T05:28:18Z,12,,Idle Position
+2023-12-09T06:05:48Z,6,,Bladeangle Float
+2023-12-09T06:43:18Z,14,,Running Up
+2023-12-09T07:25:48Z,13,,Man. Speed
+2023-12-09T09:42:48Z,13,,Man. Speed
+2023-12-09T10:37:18Z,14,,Running Up
+2023-12-09T11:18:48Z,6,,Bladeangle Float
+2023-12-09T11:56:18Z,12,,Idle Position
+2023-12-09T12:33:48Z,20,,Grid Disconnection
+2023-12-09T13:13:48Z,18,,Shutdown
+2023-12-09T16:48:18Z,20,,Grid Disconnection
+2023-12-09T17:27:48Z,12,,Idle Position
+2023-12-09T18:04:48Z,6,,Bladeangle Float
+2023-12-09T18:42:18Z,14,,Running Up
+2023-12-09T19:27:18Z,13,,Man. Speed
+2023-12-09T22:36:48Z,14,,Running Up
+2023-12-09T23:18:18Z,6,,Bladeangle Float
+2023-12-09T23:55:48Z,12,,Idle Position
+2023-12-10T00:33:18Z,20,,Grid Disconnection
+2023-12-10T01:15:48Z,18,,Shutdown
+2023-12-10T04:46:48Z,20,,Grid Disconnection
+2023-12-10T05:28:48Z,12,,Idle Position
+2023-12-10T06:06:18Z,6,,Bladeangle Float
+2023-12-10T06:43:48Z,14,,Running Up
+2023-12-10T07:26:18Z,13,,Man. Speed
+2023-12-10T10:35:48Z,14,,Running Up
+2023-12-10T11:19:48Z,6,,Bladeangle Float
+2023-12-10T11:47:48Z,6,,Bladeangle Float
+2023-12-10T11:57:18Z,12,,Idle Position
+2023-12-10T12:32:48Z,20,,Grid Disconnection
+2023-12-10T13:14:18Z,18,,Shutdown
+2023-12-10T16:46:18Z,20,,Grid Disconnection
+2023-12-10T17:28:18Z,12,,Idle Position
+2023-12-10T18:05:48Z,6,,Bladeangle Float
+2023-12-10T18:43:18Z,14,,Running Up
+2023-12-10T19:25:48Z,13,,Man. Speed
+2023-12-10T22:37:18Z,14,,Running Up
+2023-12-10T23:18:48Z,6,,Bladeangle Float
+2023-12-10T23:56:18Z,12,,Idle Position
+2023-12-11T00:01:48Z,12,,Idle Position
+2023-12-11T00:33:48Z,20,,Grid Disconnection
+2023-12-11T01:13:48Z,18,,Shutdown
+2023-12-11T04:48:18Z,20,,Grid Disconnection
+2023-12-11T05:27:48Z,12,,Idle Position
+2023-12-11T06:04:48Z,6,,Bladeangle Float
+2023-12-11T06:42:18Z,14,,Running Up
+2023-12-11T07:27:18Z,13,,Man. Speed
+2023-12-11T10:36:48Z,14,,Running Up
+2023-12-11T11:18:18Z,6,,Bladeangle Float
+2023-12-11T11:55:48Z,12,,Idle Position
+2023-12-11T12:08:48Z,12,,Idle Position
+2023-12-11T12:33:18Z,20,,Grid Disconnection
+2023-12-11T13:15:48Z,18,,Shutdown
+2023-12-11T16:46:48Z,20,,Grid Disconnection
+2023-12-11T17:28:48Z,12,,Idle Position
+2023-12-11T18:06:18Z,6,,Bladeangle Float
+2023-12-11T18:43:48Z,14,,Running Up
+2023-12-11T19:26:18Z,13,,Man. Speed
+2023-12-11T22:35:48Z,14,,Running Up
+2023-12-11T23:19:48Z,6,,Bladeangle Float
+2023-12-11T23:57:18Z,12,,Idle Position
+2023-12-12T00:32:48Z,20,,Grid Disconnection
+2023-12-12T01:14:18Z,18,,Shutdown
+2023-12-12T04:46:18Z,20,,Grid Disconnection
+2023-12-12T05:28:18Z,12,,Idle Position
+2023-12-12T06:05:48Z,6,,Bladeangle Float
+2023-12-12T06:43:18Z,14,,Running Up
+2023-12-12T07:25:48Z,13,,Man. Speed
+2023-12-12T10:37:18Z,14,,Running Up
+2023-12-12T11:18:48Z,6,,Bladeangle Float
+2023-12-12T11:56:18Z,12,,Idle Position
+2023-12-12T12:33:48Z,20,,Grid Disconnection
+2023-12-12T13:13:48Z,18,,Shutdown
+2023-12-12T14:21:18Z,18,,Shutdown
+2023-12-12T16:48:18Z,20,,Grid Disconnection
+2023-12-12T17:27:48Z,12,,Idle Position
+2023-12-12T18:04:48Z,6,,Bladeangle Float
+2023-12-12T18:42:18Z,14,,Running Up
+2023-12-12T19:27:18Z,13,,Man. Speed
+2023-12-12T22:36:48Z,14,,Running Up
+2023-12-12T23:18:18Z,6,,Bladeangle Float
+2023-12-12T23:55:48Z,12,,Idle Position
+2023-12-13T00:33:18Z,20,,Grid Disconnection
+2023-12-13T01:15:48Z,18,,Shutdown
+2023-12-13T04:46:48Z,20,,Grid Disconnection
+2023-12-13T05:28:48Z,12,,Idle Position
+2023-12-13T06:06:18Z,6,,Bladeangle Float
+2023-12-13T06:43:48Z,14,,Running Up
+2023-12-13T07:26:18Z,13,,Man. Speed
+2023-12-13T10:35:48Z,14,,Running Up
+2023-12-13T11:19:48Z,6,,Bladeangle Float
+2023-12-13T11:57:18Z,12,,Idle Position
+2023-12-13T12:32:48Z,20,,Grid Disconnection
+2023-12-13T13:14:18Z,18,,Shutdown
+2023-12-13T16:46:18Z,20,,Grid Disconnection
+2023-12-13T17:28:18Z,12,,Idle Position
+2023-12-13T18:05:48Z,6,,Bladeangle Float
+2023-12-13T18:43:18Z,14,,Running Up
+2023-12-13T19:25:48Z,13,,Man. Speed
+2023-12-13T22:37:18Z,14,,Running Up
+2023-12-13T23:18:48Z,6,,Bladeangle Float
+2023-12-13T23:56:18Z,12,,Idle Position
+2023-12-14T00:33:48Z,20,,Grid Disconnection
+2023-12-14T01:13:48Z,18,,Shutdown
+2023-12-14T04:48:18Z,20,,Grid Disconnection
+2023-12-14T05:27:48Z,12,,Idle Position
+2023-12-14T06:04:48Z,6,,Bladeangle Float
+2023-12-14T06:42:18Z,14,,Running Up
+2023-12-14T07:27:18Z,13,,Man. Speed
+2023-12-14T10:36:48Z,14,,Running Up
+2023-12-14T11:18:18Z,6,,Bladeangle Float
+2023-12-14T11:55:48Z,12,,Idle Position
+2023-12-14T12:33:18Z,20,,Grid Disconnection
+2023-12-14T13:13:18Z,20,,Grid Disconnection
+2023-12-14T13:15:48Z,18,,Shutdown
+2023-12-14T16:46:48Z,20,,Grid Disconnection
+2023-12-14T17:28:48Z,12,,Idle Position
+2023-12-14T18:06:18Z,6,,Bladeangle Float
+2023-12-14T18:43:48Z,14,,Running Up
+2023-12-14T19:26:18Z,13,,Man. Speed
+2023-12-14T22:35:48Z,14,,Running Up
+2023-12-14T23:19:48Z,6,,Bladeangle Float
+2023-12-14T23:57:18Z,12,,Idle Position
+2023-12-15T00:32:48Z,20,,Grid Disconnection
+2023-12-15T01:14:18Z,18,,Shutdown
+2023-12-15T04:46:18Z,20,,Grid Disconnection
+2023-12-15T05:28:18Z,12,,Idle Position
+2023-12-15T06:05:48Z,6,,Bladeangle Float
+2023-12-15T06:43:18Z,14,,Running Up
+2023-12-15T07:25:48Z,13,,Man. Speed
+2023-12-15T10:37:18Z,14,,Running Up
+2023-12-15T11:18:48Z,6,,Bladeangle Float
+2023-12-15T11:56:18Z,12,,Idle Position
+2023-12-15T12:33:48Z,20,,Grid Disconnection
+2023-12-15T13:13:48Z,18,,Shutdown
+2023-12-15T16:48:18Z,20,,Grid Disconnection
+2023-12-15T17:27:48Z,12,,Idle Position
+2023-12-15T18:04:48Z,6,,Bladeangle Float
+2023-12-15T18:42:18Z,14,,Running Up
+2023-12-15T19:27:18Z,13,,Man. Speed
+2023-12-15T22:36:48Z,14,,Running Up
+2023-12-15T23:18:18Z,6,,Bladeangle Float
+2023-12-15T23:55:48Z,12,,Idle Position
+2023-12-16T00:33:18Z,20,,Grid Disconnection
+2023-12-16T01:15:48Z,18,,Shutdown
+2023-12-16T04:46:48Z,20,,Grid Disconnection
+2023-12-16T05:28:48Z,12,,Idle Position
+2023-12-16T06:06:18Z,6,,Bladeangle Float
+2023-12-16T06:43:48Z,14,,Running Up
+2023-12-16T07:26:18Z,13,,Man. Speed
+2023-12-16T10:35:48Z,14,,Running Up
+2023-12-16T11:19:48Z,6,,Bladeangle Float
+2023-12-16T11:57:18Z,12,,Idle Position
+2023-12-16T12:32:48Z,20,,Grid Disconnection
+2023-12-16T13:14:18Z,18,,Shutdown
+2023-12-16T16:46:18Z,20,,Grid Disconnection
+2023-12-16T17:28:18Z,12,,Idle Position
+2023-12-16T18:05:48Z,6,,Bladeangle Float
+2023-12-16T18:43:18Z,14,,Running Up
+2023-12-16T19:25:48Z,13,,Man. Speed
+2023-12-16T22:37:18Z,14,,Running Up
+2023-12-16T23:18:48Z,6,,Bladeangle Float
+2023-12-16T23:56:18Z,12,,Idle Position
+2023-12-17T00:33:48Z,20,,Grid Disconnection
+2023-12-17T01:13:48Z,18,,Shutdown
+2023-12-17T04:48:18Z,20,,Grid Disconnection
+2023-12-17T05:27:48Z,12,,Idle Position
+2023-12-17T06:04:48Z,6,,Bladeangle Float
+2023-12-17T06:42:18Z,14,,Running Up
+2023-12-17T07:27:18Z,13,,Man. Speed
+2023-12-17T10:36:48Z,14,,Running Up
+2023-12-17T11:18:18Z,6,,Bladeangle Float
+2023-12-17T11:55:48Z,12,,Idle Position
+2023-12-17T12:33:18Z,20,,Grid Disconnection
+2023-12-17T13:15:48Z,18,,Shutdown
+2023-12-17T16:46:48Z,20,,Grid Disconnection
+2023-12-17T17:28:48Z,12,,Idle Position
+2023-12-17T18:06:18Z,6,,Bladeangle Float
+2023-12-17T18:43:48Z,14,,Running Up
+2023-12-17T19:26:18Z,13,,Man. Speed
+2023-12-17T22:35:48Z,14,,Running Up
+2023-12-17T23:19:48Z,6,,Bladeangle Float
+2023-12-17T23:57:18Z,12,,Idle Position
+2023-12-18T00:32:48Z,20,,Grid Disconnection
+2023-12-18T01:14:18Z,18,,Shutdown
+2023-12-18T04:46:18Z,20,,Grid Disconnection
+2023-12-18T05:28:18Z,12,,Idle Position
+2023-12-18T06:05:48Z,6,,Bladeangle Float
+2023-12-18T06:43:18Z,14,,Running Up
+2023-12-18T07:25:48Z,13,,Man. Speed
+2023-12-18T10:37:18Z,14,,Running Up
+2023-12-18T11:18:48Z,6,,Bladeangle Float
+2023-12-18T11:56:18Z,12,,Idle Position
+2023-12-18T12:33:48Z,20,,Grid Disconnection
+2023-12-18T13:13:48Z,18,,Shutdown
+2023-12-18T16:48:18Z,20,,Grid Disconnection
+2023-12-18T17:27:48Z,12,,Idle Position
+2023-12-18T18:04:48Z,6,,Bladeangle Float
+2023-12-18T18:42:18Z,14,,Running Up
+2023-12-18T19:27:18Z,13,,Man. Speed
+2023-12-18T22:36:48Z,14,,Running Up
+2023-12-18T23:18:18Z,6,,Bladeangle Float
+2023-12-18T23:55:48Z,12,,Idle Position
+2023-12-19T00:33:18Z,20,,Grid Disconnection
+2023-12-19T01:15:48Z,18,,Shutdown
+2023-12-19T01:36:48Z,18,,Shutdown
+2023-12-19T04:46:48Z,20,,Grid Disconnection
+2023-12-19T05:28:48Z,12,,Idle Position
+2023-12-19T06:06:18Z,6,,Bladeangle Float
+2023-12-19T06:43:48Z,14,,Running Up
+2023-12-19T07:26:18Z,13,,Man. Speed
+2023-12-19T10:35:48Z,14,,Running Up
+2023-12-19T11:19:48Z,6,,Bladeangle Float
+2023-12-19T11:57:18Z,12,,Idle Position
+2023-12-19T12:32:48Z,20,,Grid Disconnection
+2023-12-19T13:14:18Z,18,,Shutdown
+2023-12-19T16:46:18Z,20,,Grid Disconnection
+2023-12-19T17:28:18Z,12,,Idle Position
+2023-12-19T18:05:48Z,6,,Bladeangle Float
+2023-12-19T18:43:18Z,14,,Running Up
+2023-12-19T19:25:48Z,13,,Man. Speed
+2023-12-19T22:37:18Z,14,,Running Up
+2023-12-19T23:18:48Z,6,,Bladeangle Float
+2023-12-19T23:56:18Z,12,,Idle Position
+2023-12-20T00:33:48Z,20,,Grid Disconnection
+2023-12-20T01:13:48Z,18,,Shutdown
+2023-12-20T03:50:48Z,18,,Shutdown
+2023-12-20T04:48:18Z,20,,Grid Disconnection
+2023-12-20T05:27:48Z,12,,Idle Position
+2023-12-20T06:04:48Z,6,,Bladeangle Float
+2023-12-20T06:42:18Z,14,,Running Up
+2023-12-20T07:27:18Z,13,,Man. Speed
+2023-12-20T10:36:48Z,14,,Running Up
+2023-12-20T11:18:18Z,6,,Bladeangle Float
+2023-12-20T11:55:48Z,12,,Idle Position
+2023-12-20T12:33:18Z,20,,Grid Disconnection
+2023-12-20T13:15:48Z,18,,Shutdown
+2023-12-20T16:46:48Z,20,,Grid Disconnection
+2023-12-20T17:28:48Z,12,,Idle Position
+2023-12-20T18:06:18Z,6,,Bladeangle Float
+2023-12-20T18:43:48Z,14,,Running Up
+2023-12-20T19:26:18Z,13,,Man. Speed
+2023-12-20T22:35:48Z,14,,Running Up
+2023-12-20T23:19:48Z,6,,Bladeangle Float
+2023-12-20T23:57:18Z,12,,Idle Position
+2023-12-21T00:32:48Z,20,,Grid Disconnection
+2023-12-21T01:14:18Z,18,,Shutdown
+2023-12-21T04:46:18Z,20,,Grid Disconnection
+2023-12-21T05:28:18Z,12,,Idle Position
+2023-12-21T05:56:18Z,12,,Idle Position
+2023-12-21T06:05:48Z,6,,Bladeangle Float
+2023-12-21T06:43:18Z,14,,Running Up
+2023-12-21T07:25:48Z,13,,Man. Speed
+2023-12-21T10:37:18Z,14,,Running Up
+2023-12-21T11:18:48Z,6,,Bladeangle Float
+2023-12-21T11:56:18Z,12,,Idle Position
+2023-12-21T12:33:48Z,20,,Grid Disconnection
+2023-12-21T13:13:48Z,18,,Shutdown
+2023-12-21T16:48:18Z,20,,Grid Disconnection
+2023-12-21T17:27:48Z,12,,Idle Position
+2023-12-21T18:04:48Z,6,,Bladeangle Float
+2023-12-21T18:42:18Z,14,,Running Up
+2023-12-21T19:27:18Z,13,,Man. Speed
+2023-12-21T22:36:48Z,14,,Running Up
+2023-12-21T23:18:18Z,6,,Bladeangle Float
+2023-12-21T23:55:48Z,12,,Idle Position
+2023-12-22T00:33:18Z,20,,Grid Disconnection
+2023-12-22T01:15:48Z,18,,Shutdown
+2023-12-22T04:46:48Z,20,,Grid Disconnection
+2023-12-22T05:28:48Z,12,,Idle Position
+2023-12-22T06:06:18Z,6,,Bladeangle Float
+2023-12-22T06:43:48Z,14,,Running Up
+2023-12-22T07:26:18Z,13,,Man. Speed
+2023-12-22T08:08:48Z,13,,Man. Speed
+2023-12-22T10:35:48Z,14,,Running Up
+2023-12-22T11:19:48Z,6,,Bladeangle Float
+2023-12-22T11:57:18Z,12,,Idle Position
+2023-12-22T12:32:48Z,20,,Grid Disconnection
+2023-12-22T13:14:18Z,18,,Shutdown
+2023-12-22T16:46:18Z,20,,Grid Disconnection
+2023-12-22T17:28:18Z,12,,Idle Position
+2023-12-22T18:05:48Z,6,,Bladeangle Float
+2023-12-22T18:43:18Z,14,,Running Up
+2023-12-22T19:25:48Z,13,,Man. Speed
+2023-12-22T22:37:18Z,14,,Running Up
+2023-12-22T23:18:48Z,6,,Bladeangle Float
+2023-12-22T23:56:18Z,12,,Idle Position
+2023-12-23T00:33:48Z,20,,Grid Disconnection
+2023-12-23T01:13:48Z,18,,Shutdown
+2023-12-23T04:48:18Z,20,,Grid Disconnection
+2023-12-23T05:27:48Z,12,,Idle Position
+2023-12-23T06:04:48Z,6,,Bladeangle Float
+2023-12-23T06:42:18Z,14,,Running Up
+2023-12-23T07:27:18Z,13,,Man. Speed
+2023-12-23T10:19:18Z,13,,Man. Speed
+2023-12-23T10:36:48Z,14,,Running Up
+2023-12-23T11:18:18Z,6,,Bladeangle Float
+2023-12-23T11:55:48Z,12,,Idle Position
+2023-12-23T12:33:18Z,20,,Grid Disconnection
+2023-12-23T13:15:48Z,18,,Shutdown
+2023-12-23T16:46:48Z,20,,Grid Disconnection
+2023-12-23T17:28:48Z,12,,Idle Position
+2023-12-23T18:06:18Z,6,,Bladeangle Float
+2023-12-23T18:43:48Z,14,,Running Up
+2023-12-23T19:26:18Z,13,,Man. Speed
+2023-12-23T22:35:48Z,14,,Running Up
+2023-12-23T23:19:48Z,6,,Bladeangle Float
+2023-12-23T23:57:18Z,12,,Idle Position
+2023-12-24T00:32:48Z,20,,Grid Disconnection
+2023-12-24T01:14:18Z,18,,Shutdown
+2023-12-24T04:46:18Z,20,,Grid Disconnection
+2023-12-24T05:28:18Z,12,,Idle Position
+2023-12-24T06:05:48Z,6,,Bladeangle Float
+2023-12-24T06:43:18Z,14,,Running Up
+2023-12-24T07:25:48Z,13,,Man. Speed
+2023-12-24T10:37:18Z,14,,Running Up
+2023-12-24T11:18:48Z,6,,Bladeangle Float
+2023-12-24T11:56:18Z,12,,Idle Position
+2023-12-24T12:33:48Z,20,,Grid Disconnection
+2023-12-24T13:13:48Z,18,,Shutdown
+2023-12-24T16:48:18Z,20,,Grid Disconnection
+2023-12-24T17:27:48Z,12,,Idle Position
+2023-12-24T18:04:48Z,6,,Bladeangle Float
+2023-12-24T18:42:18Z,14,,Running Up
+2023-12-24T19:27:18Z,13,,Man. Speed
+2023-12-24T22:36:48Z,14,,Running Up
+2023-12-24T23:18:18Z,6,,Bladeangle Float
+2023-12-24T23:55:48Z,12,,Idle Position
+2023-12-25T00:33:18Z,20,,Grid Disconnection
+2023-12-25T01:15:48Z,18,,Shutdown
+2023-12-25T04:46:48Z,20,,Grid Disconnection
+2023-12-25T05:28:48Z,12,,Idle Position
+2023-12-25T06:06:18Z,6,,Bladeangle Float
+2023-12-25T06:43:48Z,14,,Running Up
+2023-12-25T07:26:18Z,13,,Man. Speed
+2023-12-25T10:35:48Z,14,,Running Up
+2023-12-25T11:19:48Z,6,,Bladeangle Float
+2023-12-25T11:57:18Z,12,,Idle Position
+2023-12-25T12:32:48Z,20,,Grid Disconnection
+2023-12-25T13:14:18Z,18,,Shutdown
+2023-12-25T14:51:18Z,18,,Shutdown
+2023-12-25T16:46:18Z,20,,Grid Disconnection
+2023-12-25T17:28:18Z,12,,Idle Position
+2023-12-25T18:05:48Z,6,,Bladeangle Float
+2023-12-25T18:43:18Z,14,,Running Up
+2023-12-25T19:25:48Z,13,,Man. Speed
+2023-12-25T22:37:18Z,14,,Running Up
+2023-12-25T23:18:48Z,6,,Bladeangle Float
+2023-12-25T23:56:18Z,12,,Idle Position
+2023-12-26T00:33:48Z,20,,Grid Disconnection
+2023-12-26T01:13:48Z,18,,Shutdown
+2023-12-26T04:48:18Z,20,,Grid Disconnection
+2023-12-26T05:27:48Z,12,,Idle Position
+2023-12-26T06:04:48Z,6,,Bladeangle Float
+2023-12-26T06:42:18Z,14,,Running Up
+2023-12-26T07:27:18Z,13,,Man. Speed
+2023-12-26T10:36:48Z,14,,Running Up
+2023-12-26T11:18:18Z,6,,Bladeangle Float
+2023-12-26T11:55:48Z,12,,Idle Position
+2023-12-26T12:33:18Z,20,,Grid Disconnection
+2023-12-26T13:15:48Z,18,,Shutdown
+2023-12-26T16:46:48Z,20,,Grid Disconnection
+2023-12-26T17:14:18Z,20,,Grid Disconnection
+2023-12-26T17:28:48Z,12,,Idle Position
+2023-12-26T18:06:18Z,6,,Bladeangle Float
+2023-12-26T18:43:48Z,14,,Running Up
+2023-12-26T19:26:18Z,13,,Man. Speed
+2023-12-26T22:35:48Z,14,,Running Up
+2023-12-26T23:19:48Z,6,,Bladeangle Float
+2023-12-26T23:57:18Z,12,,Idle Position
+2023-12-27T00:32:48Z,20,,Grid Disconnection
+2023-12-27T01:14:18Z,18,,Shutdown
+2023-12-27T04:46:18Z,20,,Grid Disconnection
+2023-12-27T05:28:18Z,12,,Idle Position
+2023-12-27T06:05:48Z,6,,Bladeangle Float
+2023-12-27T06:43:18Z,14,,Running Up
+2023-12-27T07:25:48Z,13,,Man. Speed
+2023-12-27T10:37:18Z,14,,Running Up
+2023-12-27T11:18:48Z,6,,Bladeangle Float
+2023-12-27T11:56:18Z,12,,Idle Position
+2023-12-27T12:33:48Z,20,,Grid Disconnection
+2023-12-27T13:13:48Z,18,,Shutdown
+2023-12-27T16:48:18Z,20,,Grid Disconnection
+2023-12-27T17:27:48Z,12,,Idle Position
+2023-12-27T18:04:48Z,6,,Bladeangle Float
+2023-12-27T18:42:18Z,14,,Running Up
+2023-12-27T19:24:18Z,14,,Running Up
+2023-12-27T19:27:18Z,13,,Man. Speed
+2023-12-27T22:36:48Z,14,,Running Up
+2023-12-27T23:18:18Z,6,,Bladeangle Float
+2023-12-27T23:55:48Z,12,,Idle Position
+2023-12-28T00:33:18Z,20,,Grid Disconnection
+2023-12-28T01:15:48Z,18,,Shutdown
+2023-12-28T04:46:48Z,20,,Grid Disconnection
+2023-12-28T05:28:48Z,12,,Idle Position
+2023-12-28T06:06:18Z,6,,Bladeangle Float
+2023-12-28T06:43:48Z,14,,Running Up
+2023-12-28T07:26:18Z,13,,Man. Speed
+2023-12-28T10:35:48Z,14,,Running Up
+2023-12-28T11:19:48Z,6,,Bladeangle Float
+2023-12-28T11:57:18Z,12,,Idle Position
+2023-12-28T12:32:48Z,20,,Grid Disconnection
+2023-12-28T13:14:18Z,18,,Shutdown
+2023-12-28T16:46:18Z,20,,Grid Disconnection
+2023-12-28T17:28:18Z,12,,Idle Position
+2023-12-28T18:05:48Z,6,,Bladeangle Float
+2023-12-28T18:43:18Z,14,,Running Up
+2023-12-28T19:25:48Z,13,,Man. Speed
+2023-12-28T21:35:48Z,13,,Man. Speed
+2023-12-28T22:37:18Z,14,,Running Up
+2023-12-28T23:18:48Z,6,,Bladeangle Float
+2023-12-28T23:56:18Z,12,,Idle Position
+2023-12-29T00:33:48Z,20,,Grid Disconnection
+2023-12-29T01:13:48Z,18,,Shutdown
+2023-12-29T04:48:18Z,20,,Grid Disconnection
+2023-12-29T05:27:48Z,12,,Idle Position
+2023-12-29T06:04:48Z,6,,Bladeangle Float
+2023-12-29T06:42:18Z,14,,Running Up
+2023-12-29T07:27:18Z,13,,Man. Speed
+2023-12-29T10:36:48Z,14,,Running Up
+2023-12-29T11:18:18Z,6,,Bladeangle Float
+2023-12-29T11:55:48Z,12,,Idle Position
+2023-12-29T12:33:18Z,20,,Grid Disconnection
+2023-12-29T13:15:48Z,18,,Shutdown
+2023-12-29T16:46:48Z,20,,Grid Disconnection
+2023-12-29T17:28:48Z,12,,Idle Position
+2023-12-29T18:06:18Z,6,,Bladeangle Float
+2023-12-29T18:43:48Z,14,,Running Up
+2023-12-29T19:26:18Z,13,,Man. Speed
+2023-12-29T22:35:48Z,14,,Running Up
+2023-12-29T23:19:48Z,6,,Bladeangle Float
+2023-12-29T23:42:48Z,6,,Bladeangle Float
+2023-12-29T23:57:18Z,12,,Idle Position
+2023-12-30T00:32:48Z,20,,Grid Disconnection
+2023-12-30T01:14:18Z,18,,Shutdown
+2023-12-30T04:46:18Z,20,,Grid Disconnection
+2023-12-30T05:28:18Z,12,,Idle Position
+2023-12-30T06:05:48Z,6,,Bladeangle Float
+2023-12-30T06:43:18Z,14,,Running Up
+2023-12-30T07:25:48Z,13,,Man. Speed
+2023-12-30T10:37:18Z,14,,Running Up
+2023-12-30T11:18:48Z,6,,Bladeangle Float
+2023-12-30T11:56:18Z,12,,Idle Position
+2023-12-30T12:33:48Z,20,,Grid Disconnection
+2023-12-30T13:13:48Z,18,,Shutdown
+2023-12-30T16:48:18Z,20,,Grid Disconnection
+2023-12-30T17:27:48Z,12,,Idle Position
+2023-12-30T18:04:48Z,6,,Bladeangle Float
+2023-12-30T18:42:18Z,14,,Running Up
+2023-12-30T19:27:18Z,13,,Man. Speed
+2023-12-30T22:36:48Z,14,,Running Up
+2023-12-30T23:18:18Z,6,,Bladeangle Float
+2023-12-30T23:55:48Z,12,,Idle Position
+2023-12-31T00:33:18Z,20,,Grid Disconnection
+2023-12-31T01:15:48Z,18,,Shutdown
+2023-12-31T01:53:18Z,18,,Shutdown
+2023-12-31T04:46:48Z,20,,Grid Disconnection
+2023-12-31T05:28:48Z,12,,Idle Position
+2023-12-31T06:06:18Z,6,,Bladeangle Float
+2023-12-31T06:43:48Z,14,,Running Up
+2023-12-31T07:26:18Z,13,,Man. Speed
+2023-12-31T10:35:48Z,14,,Running Up
+2023-12-31T11:19:48Z,6,,Bladeangle Float
+2023-12-31T11:57:18Z,12,,Idle Position
+2023-12-31T12:32:48Z,20,,Grid Disconnection
+2023-12-31T13:14:18Z,18,,Shutdown
+2023-12-31T16:46:18Z,20,,Grid Disconnection
+2023-12-31T17:28:18Z,12,,Idle Position
+2023-12-31T18:05:48Z,6,,Bladeangle Float
+2023-12-31T18:43:18Z,14,,Running Up
+2023-12-31T19:25:48Z,13,,Man. Speed
+2023-12-31T22:37:18Z,14,,Running Up
+2023-12-31T23:18:48Z,6,,Bladeangle Float
+2023-12-31T23:56:18Z,12,,Idle Position
+2024-01-01T00:33:48Z,20,,Grid Disconnection
+2024-01-01T01:13:48Z,18,,Shutdown
+2024-01-01T03:56:18Z,18,,Shutdown
+2024-01-01T04:48:18Z,20,,Grid Disconnection
+2024-01-01T05:27:48Z,12,,Idle Position
+2024-01-01T06:04:48Z,6,,Bladeangle Float
+2024-01-01T06:42:18Z,14,,Running Up
+2024-01-01T07:27:18Z,13,,Man. Speed
+2024-01-01T10:36:48Z,14,,Running Up
+2024-01-01T11:18:18Z,6,,Bladeangle Float
+2024-01-01T11:55:48Z,12,,Idle Position

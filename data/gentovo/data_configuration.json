@@ -1,0 +1,268 @@
+{
+  "AssetTypes": [
+    {
+      "Id": "10.116.20.140_82f21b83-0f78-4e61-8f12-55a79c8dff50",
+      "Name": "Line Template",
+      "Description": "",
+      "TypeReferences": [
+        {
+          "StreamReferenceId": "Carbonator.CO2 Level",
+          "StreamReferenceName": "Carbonator.CO2 Level",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Carbonator.Pressure",
+          "StreamReferenceName": "Carbonator.Pressure",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Carbonator.Temp",
+          "StreamReferenceName": "Carbonator.Temp",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Chiller.Energy Usage",
+          "StreamReferenceName": "Chiller.Energy Usage",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Chiller.Inlet DO",
+          "StreamReferenceName": "Chiller.Inlet DO",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Chiller.Product Inlet Temperature",
+          "StreamReferenceName": "Chiller.Product Inlet Temperature",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Chiller.Product Outlet Temperature",
+          "StreamReferenceName": "Chiller.Product Outlet Temperature",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Chiller.Refrigerant Flow",
+          "StreamReferenceName": "Chiller.Refrigerant Flow",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "RunningState",
+          "StreamReferenceName": "RunningState",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "SKU",
+          "StreamReferenceName": "SKU",
+          "TypeId": "TimeIndexedString"
+        },
+        {
+          "StreamReferenceId": "Warmer.Energy Usage",
+          "StreamReferenceName": "Warmer.Energy Usage",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Warmer.Zone 1 Temperature",
+          "StreamReferenceName": "Warmer.Zone 1 Temperature",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Warmer.Zone 2 Temperature",
+          "StreamReferenceName": "Warmer.Zone 2 Temperature",
+          "TypeId": "PIFloat32"
+        },
+        {
+          "StreamReferenceId": "Warmer.Zone 3 Temperature",
+          "StreamReferenceName": "Warmer.Zone 3 Temperature",
+          "TypeId": "PIFloat32"
+        }
+      ],
+      "CreatedDate": "2024-01-03T15:08:58.581630+00:00",
+      "ModifiedDate": "2024-01-03T15:08:58.581630+00:00"
+    }
+  ],
+  "Hierarchy": {
+    "Asset": {
+      "Id": "10.116.20.140_5f361724-11e1-11ee-a8ea-000d3aa82dd1",
+      "Name": "Packaging Line 1",
+      "Description": "",
+      "AssetTypeId": "10.116.20.140_82f21b83-0f78-4e61-8f12-55a79c8dff50",
+      "StreamReferences": [
+        {
+          "Id": "Carbonator.CO2 Level",
+          "Name": "Carbonator.CO2 Level",
+          "StreamId": "PI_10.116.20.140_6785"
+        },
+        {
+          "Id": "Carbonator.Pressure",
+          "Name": "Carbonator.Pressure",
+          "StreamId": "PI_10.116.20.140_6786"
+        },
+        {
+          "Id": "Carbonator.Temp",
+          "Name": "Carbonator.Temp",
+          "StreamId": "PI_10.116.20.140_6787"
+        },
+        {
+          "Id": "Chiller.Energy Usage",
+          "Name": "Chiller.Energy Usage",
+          "StreamId": "PI_10.116.20.140_6788"
+        },
+        {
+          "Id": "Chiller.Inlet DO",
+          "Name": "Chiller.Inlet DO",
+          "StreamId": "PI_10.116.20.140_6789"
+        },
+        {
+          "Id": "Chiller.Product Inlet Temperature",
+          "Name": "Chiller.Product Inlet Temperature",
+          "StreamId": "PI_10.116.20.140_6790"
+        },
+        {
+          "Id": "Chiller.Product Outlet Temperature",
+          "Name": "Chiller.Product Outlet Temperature",
+          "StreamId": "PI_10.116.20.140_6791"
+        },
+        {
+          "Id": "Chiller.Refrigerant Flow",
+          "Name": "Chiller.Refrigerant Flow",
+          "StreamId": "PI_10.116.20.140_6792"
+        },
+        {
+          "Id": "RunningState",
+          "Name": "RunningState",
+          "StreamId": "PI_10.116.20.140_6833"
+        },
+        {
+          "Id": "SKU",
+          "Name": "SKU",
+          "StreamId": "PI_10.116.20.140_6834"
+        },
+        {
+          "Id": "Warmer.Energy Usage",
+          "Name": "Warmer.Energy Usage",
+          "StreamId": "PI_10.116.20.140_6835"
+        },
+        {
+          "Id": "Warmer.Zone 1 Temperature",
+          "Name": "Warmer.Zone 1 Temperature",
+          "StreamId": "PI_10.116.20.140_6836"
+        },
+        {
+          "Id": "Warmer.Zone 2 Temperature",
+          "Name": "Warmer.Zone 2 Temperature",
+          "StreamId": "PI_10.116.20.140_6837"
+        },
+        {
+          "Id": "Warmer.Zone 3 Temperature",
+          "Name": "Warmer.Zone 3 Temperature",
+          "StreamId": "PI_10.116.20.140_6838"
+        }
+      ],
+      "CreatedDate": "2024-01-03T15:09:01.095603+00:00",
+      "ModifiedDate": "2024-01-03T15:09:01.095603+00:00"
+    },
+    "StreamReaders": [
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6785",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Carbonator.CO2 Level",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6785.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6786",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Carbonator.Pressure",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6786.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6787",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Carbonator.Temp",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6787.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6788",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Chiller.Energy Usage",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6788.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6789",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Chiller.Inlet DO",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6789.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6790",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Chiller.Product Inlet Temperature",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6790.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6791",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Chiller.Product Outlet Temperature",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6791.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6792",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Chiller.Refrigerant Flow",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6792.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6833",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.RunningState",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6833.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6834",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.SKU",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6834.csv",
+        "DataClass": "StreamTypeTimeIndexedString"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6835",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Warmer.Energy Usage",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6835.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6836",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Warmer.Zone 1 Temperature",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6836.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6837",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Warmer.Zone 2 Temperature",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6837.csv",
+        "DataClass": "StreamTypePIFloat32"
+      },
+      {
+        "Reader": "CSVStreamReader",
+        "Id": "PI_10.116.20.140_6838",
+        "Name": "Nairobi Bottling Plant.Packaging Line 1.Warmer.Zone 3 Temperature",
+        "FilePath": "data/gentovo/stream/Packaging Line 1_PI_10.116.20.140_6838.csv",
+        "DataClass": "StreamTypePIFloat32"
+      }
+    ],
+    "EventReaders": [],
+    "ReferenceDataReaders": [],
+    "Children": []
+  }
+}
