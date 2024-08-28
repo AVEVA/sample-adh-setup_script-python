@@ -7,7 +7,7 @@ Developed against Python 3.11.3
 ## Requirements
 
 - Python 3.11+
-- Register an [Authorization Code Client](https://datahub.connect.aveva.com/clients) and ensure that the registered client in ADH contains `http://localhost:5004/callback.html` in the list of RedirectUris.
+- Register an [Authorization Code Client](https://datahub.connect.aveva.com/clients) and ensure that the registered client in Cds contains `http://localhost:5004/callback.html` in the list of RedirectUris.
 - When running the script you should log in with an account that has Tenant Administrator and Tenant Community Administrator Roles.
 - Install required modules: `pip install -r requirements.txt`
 
@@ -60,7 +60,7 @@ If multiple instances of this application are being run in the same AVEVA CONNEC
 
 | Parameter    | Required | Type   | Description                                                                                                                                   |
 | ------------ | -------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| AuthenticationResource     | Required | String (Uri)                            | Base ADH URL being used                                                                                                                                                                                              |
+| AuthenticationResource     | Required | String (Uri)                            | Base  URL being used                                                                                                                                                                                              |
 | NamespaceResource          | Optional | String (Uri)                            | Region specific Namespace URL<br>Automatically added when Setup mode is run                                                                                                                                          |
 | ApiVersion                 | Required | String                                  | API Version                                                                                                                                                                                                          |
 | TenantId                   | Required | String                                  | Tenant Id of Tenant being sent to                                                                                                                                                                                    |
