@@ -1,4 +1,4 @@
-# ADH Python Setup Script
+# CDS Python Setup Script
 
 **Version:** 1.0.0  
 
@@ -13,7 +13,7 @@ Developed against Python 3.11.3
 
 ## About this Sample
 
-This sample creates a set of resources commonly used in AVEVA Data Hub for learning, development, and training purposes. It also provides an extensible framework for building custom demo systems. For a full list of resources created, please refer to the [What the Script Creates](#what-the-script-creates) section below.
+This sample creates a set of resources commonly used in AVEVA CONNECT data services for learning, development, and training purposes. It also provides an extensible framework for building custom demo systems. For a full list of resources created, please refer to the [What the Script Creates](#what-the-script-creates) section below.
 
 This sample in run mode is intended to be run in an environment where the computer stays on and is consistently connected to the internet.
 
@@ -39,7 +39,7 @@ This sample in run mode is intended to be run in an environment where the comput
 
 The sample is configured by modifying the file appsettings.placeholder.json. Details on how to configure it can be found in the sections below. Before editing appsettings.placeholder.json, rename this file to appsettings.json. This repository's .gitignore rules should prevent the file from ever being checked in to any fork or branch, to ensure credentials are not compromised.  
 
-If multiple instances of this application are being run in the same AVEVA Data Hub instance there may be naming collisions. To avoid collisions with the client, the `ClientName` [label](#labels) should be specified.
+If multiple instances of this application are being run in the same AVEVA CONNECT data services instance there may be naming collisions. To avoid collisions with the client, the `ClientName` [label](#labels) should be specified.
 
 ### Configuring appsettings.json
 
